@@ -25,7 +25,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 ## Lifecycle Stages
 
-<img src="https://img.youtube.com/vi/ZzRK-kXHwWk/0.jpg" alt="osTicket Ticket Lifecycle Thumbnail" width="50%" />
+![image](https://github.com/user-attachments/assets/da78b04a-4ecc-4661-b7f7-bb0933345c72)
+
 <br />
 Click <a href="https://www.youtube.com/watch?v=ZzRK-kXHwWk" target="_blank">here</a> to watch the demo.
 
